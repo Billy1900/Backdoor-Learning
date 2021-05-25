@@ -5,3 +5,4 @@ An Awesome curated list of backdoor learning resources
 
 ## ToolBox
 - [trojanzoo](https://github.com/ain-soph/trojanzoo)
+- [trojAI](https://pages.nist.gov/trojai/docs/about.html)
