@@ -17,7 +17,9 @@ The **attack** can be divided into three types:
 - data-based attack
 - model-based attack
 - code-based attack (binary-level)
-or
+
+**or**
+
 - Visible attack (visible pattern/trigger)
 - invisible attack (invisible pattern/trigger)
 
